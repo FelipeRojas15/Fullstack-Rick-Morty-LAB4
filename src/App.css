@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+a {
+  text-decoration: none;
+  color: white ;
+  background-color: blueviolet;
+  padding: 5px 10px;
+  font-size: 10px;
+}
+
+.activo {
+  color: yellow;
+  background-color: blue;
+}
